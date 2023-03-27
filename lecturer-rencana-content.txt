@@ -3,7 +3,11 @@ RENCANA KONTEN LECTURER
 - JAVASCRIPT
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React 
 - Struktur Data Dasar 
-- PHP FRAMEWORK 
+- PHP FRAMEWORK
+   ^ Laravel 
 - INTERVIEW
 - VLOG
+- Python 
