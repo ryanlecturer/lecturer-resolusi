@@ -1,0 +1,4 @@
+lecturer-resolusi
+- konsisten membuat konten 2x seminggu
+- Membuat platform untuk pengelolaan web
+- Membuat forum diskusi 
