@@ -3,6 +3,7 @@ RENCANA KONTEN LECTURER
 - JAVASCRIPT
   * ES6
   * Framework Javascript
+- Struktur Data Dasar 
 - PHP FRAMEWORK 
 - INTERVIEW
 - VLOG
