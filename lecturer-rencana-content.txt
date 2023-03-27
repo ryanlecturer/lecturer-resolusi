@@ -1,0 +1,8 @@
+RENCANA KONTEN LECTURER 
+
+- JAVASCRIPT
+  * ES6
+  * Framework Javascript
+- PHP FRAMEWORK 
+- INTERVIEW
+- VLOG
