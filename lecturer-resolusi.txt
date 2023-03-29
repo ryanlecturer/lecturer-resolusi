@@ -3,4 +3,5 @@ lecturer-resolusi
 - Membuat platform untuk pengelolaan web
 - Membuat forum diskusi 
 - Kolaborasi dengan lebih banyak expert   
-- Membuat vlog 
+- Membuat vlog
+- ryan 
