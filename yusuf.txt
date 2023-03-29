@@ -1,0 +1,3 @@
+nama : yusuf
+no  : 10
+nim : 202111010
