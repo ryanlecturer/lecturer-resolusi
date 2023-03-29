@@ -4,3 +4,4 @@ lecturer-resolusi
 - Membuat forum diskusi 
 - Kolaborasi dengan lebih banyak expert   
 - Membuat vlog 
+- Fahry
