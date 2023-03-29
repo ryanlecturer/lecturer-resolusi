@@ -1,0 +1,3 @@
+nama:rizal
+no:09
+nim:202111009
